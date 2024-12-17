@@ -1,0 +1,2 @@
+# registerable
+Auto register classes
